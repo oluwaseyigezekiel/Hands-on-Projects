@@ -8,5 +8,6 @@ at Seneca Polytechnic, Canada. They include:
 - [Field Maps App for Spatial Data Collection](https://storymaps.arcgis.com/stories/09b02bcf85214aa798eb35d9c9fd218b/print): Utilizing the ESRI Field Maps app to gather and manage spatial data efficiently.
 - [Real Estate Management](https://storymaps.arcgis.com/stories/a479728bce4747bd88cd9787b7e0ec7b/print): Defining a 200-meter jurisdiction for individuals who searching for housing within a specific proximity.
 - [Traffic Analysis and Safety](https://oluwaseyigezekiel.github.io/portfolio/storymaps/traffic_analysis.pdf): Analyzing traffic patterns to improve road safety and optimize traffic flow.
+  
 ---
 **NB:** Please click each project to see the project details. 
